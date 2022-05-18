@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Services/testing</title>
+    <g id="Services/testing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Magnify" transform="translate(4.000000, 6.000000)">
+            <circle id="Oval" stroke="#0064D2" stroke-width="3" cx="63.5" cy="30.5" r="29"></circle>
+            <g id="Group-20" transform="translate(25.054564, 69.652543) rotate(45.000000) translate(-25.054564, -69.652543) translate(17.054564, 43.152543)" stroke="#0064D2" stroke-width="3">
+                <path d="M13.8535534,20.123106 L13.8535534,45.123106 C13.8535534,46.7799603 13.1819805,48.2799603 12.0961941,49.3657467 C11.0104076,50.4515331 9.51040764,51.123106 7.85355339,51.123106 C6.19669914,51.123106 4.69669914,50.4515331 3.6109127,49.3657467 C2.52512627,48.2799603 1.85355339,46.7799603 1.85355339,45.123106 L1.85355339,45.123106 L1.85355339,20.123106 L13.8535534,20.123106 Z" id="Rectangle"></path>
+                <path d="M10.767767,2.00331821 L10.767767,19.7027958 L4.76776695,19.7027958 L4.76776695,2.03791034 C5.8832918,2.23174706 6.82095929,2.32559993 7.58026695,2.32559993 C8.37752861,2.32559993 9.44018238,2.22047919 10.767767,2.00331821 L10.767767,2.00331821 Z" id="Rectangle"></path>
+            </g>
+            <circle id="Oval" stroke="#0064D2" stroke-width="3" cx="63.5" cy="30.5" r="24"></circle>
+            <circle id="Oval" fill="#0064D2" cx="25.5" cy="68.5" r="1.5"></circle>
+            <circle id="Oval-Copy-2" fill="#0064D2" cx="19.5" cy="74.5" r="1.5"></circle>
+            <circle id="Oval-Copy-3" fill="#0064D2" cx="13.5" cy="80.5" r="1.5"></circle>
+            <g id="Bug" transform="translate(52.000000, 19.000000)" stroke="#0064D2">
+                <path d="M5,0 C5.76666667,0.0442472128 6.36666667,0.210815264 6.8,0.499704152 C7.23333333,0.788593041 7.63333333,1.28869166 8,2" id="Path-18" stroke-width="2" fill="#D8D8D8" stroke-linecap="round"></path>
+                <path d="M14,0 C14.7666667,0.0442472128 15.3666667,0.210815264 15.8,0.499704152 C16.2333333,0.788593041 16.6333333,1.28869166 17,2" id="Path-18-Copy" stroke-width="2" fill="#D8D8D8" stroke-linecap="round" transform="translate(15.500000, 1.000000) scale(-1, 1) translate(-15.500000, -1.000000) "></path>
+                <path d="M16,7.22727273 C16,4.21481046 13.7614237,1.77272727 11,1.77272727 C8.23857625,1.77272727 6,4.21481046 6,7.22727273" id="Oval" stroke-width="2"></path>
+                <path d="M18,14 C18,18.418278 14.8659932,22 11,22 C7.13400675,22 4,18.418278 4,14" id="Oval-Copy" stroke-width="2"></path>
+                <path d="M4,15 L4,8.77777778 C4,8.34822297 4.31340068,8 4.7,8 L17.3,8 C17.6865993,8 18,8.34822297 18,8.77777778 L18,15 L18,15" id="Rectangle" stroke-width="2"></path>
+                <path d="M11.5,8.5 L11.5,20.5 L10.5,20.5 L10.5,8.5 L11.5,8.5 Z" id="Rectangle" fill="#D8D8D8"></path>
+                <line x1="18" y1="14" x2="21" y2="14" id="Path-19-Copy" stroke-width="2" fill="#D8D8D8" stroke-linecap="round"></line>
+                <line x1="1" y1="14" x2="4" y2="14" id="Path-19-Copy-7" stroke-width="2" fill="#D8D8D8" stroke-linecap="round"></line>
+                <path d="M18,10 L20.7836414,8.79553978 C21.0425592,8.68350803 21.2329763,8.42513669 21.2872072,8.1122662 L22,4 L22,4" id="Path-19-Copy-2" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M0,10 L2.7836414,8.79553978 C3.04255922,8.68350803 3.23297631,8.42513669 3.28720719,8.1122662 L4,4 L4,4" id="Path-19-Copy-3" stroke-width="2" stroke-linecap="round" transform="translate(2.000000, 7.000000) scale(-1, 1) translate(-2.000000, -7.000000) "></path>
+                <path d="M0,24 L2.7836414,22.7955398 C3.04255922,22.683508 3.23297631,22.4251367 3.28720719,22.1122662 L4,18 L4,18" id="Path-19-Copy-4" stroke-width="2" stroke-linecap="round" transform="translate(2.000000, 21.000000) scale(-1, -1) translate(-2.000000, -21.000000) "></path>
+                <path d="M18,24 L20.7836414,22.7955398 C21.0425592,22.683508 21.2329763,22.4251367 21.2872072,22.1122662 L22,18 L22,18" id="Path-19-Copy-5" stroke-width="2" stroke-linecap="round" transform="translate(20.000000, 21.000000) scale(1, -1) translate(-20.000000, -21.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

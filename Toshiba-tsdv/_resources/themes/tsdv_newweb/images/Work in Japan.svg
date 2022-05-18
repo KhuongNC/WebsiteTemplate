@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1033px" height="279px" viewBox="0 0 1033 279" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <style type="text/css">@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800');</style>
+    </defs>
+    <title>Work in Japan</title>
+    <g id="V2_Last" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Career_Development_L_v2.0-Copy" transform="translate(-284.000000, -3596.000000)">
+            <g id="Work-in-Japan" transform="translate(284.000000, 3596.000000)">
+                <rect id="Rectangle" stroke="#D2E1FE" x="0.5" y="0.5" width="1032" height="278"></rect>
+                <g id="Header" transform="translate(1.000000, 1.000000)">
+                    <rect id="Rectangle" fill="#3973E6" x="0" y="0" width="1031" height="44"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" x="67" y="0" width="1" height="44"></rect>
+                    <rect id="Rectangle-Copy-7" fill="#FFFFFF" x="252" y="0" width="1" height="44"></rect>
+                    <rect id="Rectangle-Copy-8" fill="#FFFFFF" x="798" y="0" width="1" height="44"></rect>
+                    <text id="No." font-family="OpenSans-Bold, Open Sans" font-size="18" font-weight="bold" letter-spacing="-0.4" fill="#FFFFFF">
+                        <tspan x="16" y="29">No.</tspan>
+                    </text>
+                    <text id="Schema" font-family="OpenSans-Bold, Open Sans" font-size="18" font-weight="bold" letter-spacing="-0.4" fill="#FFFFFF">
+                        <tspan x="84" y="29">Schema</tspan>
+                    </text>
+                    <text id="Objective" font-family="OpenSans-Bold, Open Sans" font-size="18" font-weight="bold" letter-spacing="-0.4" fill="#FFFFFF">
+                        <tspan x="269" y="29">Objective</tspan>
+                    </text>
+                    <text id="Duration" font-family="OpenSans-Bold, Open Sans" font-size="18" font-weight="bold" letter-spacing="-0.4" fill="#FFFFFF">
+                        <tspan x="818" y="29">Duration</tspan>
+                    </text>
+                </g>
+                <g id="Header-Copy" transform="translate(1.000000, 46.000000)">
+                    <rect id="Rectangle" fill="#D2E1FE" x="0" y="0" width="1031" height="86"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" x="67" y="0" width="1" height="86"></rect>
+                    <rect id="Rectangle-Copy-7" fill="#FFFFFF" x="252" y="0" width="1" height="86"></rect>
+                    <rect id="Rectangle-Copy-8" fill="#FFFFFF" x="798" y="0" width="1" height="86"></rect>
+                    <text id="1" font-family="OpenSans-Bold, Open Sans" font-size="18" font-weight="bold" letter-spacing="-0.4" fill="#1B2027">
+                        <tspan x="27" y="50">1</tspan>
+                    </text>
+                    <text id="On-the-Job-Training" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold" letter-spacing="0.3" fill="#1B2027">
+                        <tspan x="84" y="38">On the Job </tspan>
+                        <tspan x="84" y="60">Training (OJT)</tspan>
+                    </text>
+                    <text id="Domain-Knowledge-tra" font-family="OpenSans-SemiBold, Open Sans" font-size="16" font-weight="600" fill="#1B2027">
+                        <tspan x="269" y="38">Domain Knowledge transfer for project. Project </tspan>
+                        <tspan x="269" y="60">Preparation.</tspan>
+                    </text>
+                    <text id="Max.-3-months" font-family="OpenSans-SemiBold, Open Sans" font-size="16" font-weight="600" fill="#1B2027">
+                        <tspan x="818" y="49">Max. 3 months</tspan>
+                    </text>
+                </g>
+                <g id="Header-Copy-2" transform="translate(1.000000, 133.000000)">
+                    <rect id="Rectangle" fill="#F1F4FB" x="0" y="0" width="1031" height="72"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" x="67" y="0" width="1" height="72"></rect>
+                    <rect id="Rectangle-Copy-7" fill="#FFFFFF" x="252" y="0" width="1" height="72"></rect>
+                    <rect id="Rectangle-Copy-8" fill="#FFFFFF" x="798" y="0" width="1" height="72"></rect>
+                    <text id="2" font-family="OpenSans-Bold, Open Sans" font-size="18" font-weight="bold" letter-spacing="-0.4" fill="#1B271D">
+                        <tspan x="27" y="43">2</tspan>
+                    </text>
+                    <text id="Bridge-Engineer" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold" letter-spacing="0.3" fill="#1B2027">
+                        <tspan x="84" y="42">Bridge Engineer</tspan>
+                    </text>
+                    <text id="Communication-improv" font-family="OpenSans-SemiBold, Open Sans" font-size="16" font-weight="600" fill="#1B2027">
+                        <tspan x="269" y="42">Communication improvement</tspan>
+                    </text>
+                    <text id="Periodically" font-family="OpenSans-SemiBold, Open Sans" font-size="16" font-weight="600" fill="#1B2027">
+                        <tspan x="818" y="43">Periodically</tspan>
+                    </text>
+                </g>
+                <g id="Header-Copy-3" transform="translate(1.000000, 206.000000)">
+                    <rect id="Rectangle" fill="#D2E1FE" x="0" y="0" width="1031" height="72"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" x="67" y="0" width="1" height="72"></rect>
+                    <rect id="Rectangle-Copy-7" fill="#FFFFFF" x="252" y="0" width="1" height="72"></rect>
+                    <rect id="Rectangle-Copy-8" fill="#FFFFFF" x="798" y="0" width="1" height="72"></rect>
+                    <text id="3" font-family="OpenSans-Bold, Open Sans" font-size="18" font-weight="bold" letter-spacing="-0.4" fill="#1B2027">
+                        <tspan x="27" y="43">3</tspan>
+                    </text>
+                    <text id="Long-Term-Stay" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold" letter-spacing="0.3" fill="#1B2027">
+                        <tspan x="84" y="42">Long Term Stay</tspan>
+                    </text>
+                    <text id="Set-up-domain-knowle" font-family="OpenSans-SemiBold, Open Sans" font-size="16" font-weight="600" fill="#1B2027">
+                        <tspan x="269" y="42">Set up domain knowledged key person</tspan>
+                    </text>
+                    <text id="1-to-3-years" font-family="OpenSans-SemiBold, Open Sans" font-size="16" font-weight="600" fill="#1B2027">
+                        <tspan x="818" y="43">1 to 3 years</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

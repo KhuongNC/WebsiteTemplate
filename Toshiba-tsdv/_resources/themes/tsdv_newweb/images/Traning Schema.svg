@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1031px" height="484px" viewBox="0 0 1031 484" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Traning Schema</title>
+    <defs>
+        <style type="text/css">@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800');</style>
+        <rect id="path-1" x="0" y="0" width="284" height="45" rx="2"></rect>
+        <filter x="-4.9%" y="-22.2%" width="109.9%" height="162.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.742725317   0 0 0 0 0.742725317   0 0 0 0 0.742725317  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="284" height="45" rx="2"></rect>
+        <filter x="-4.9%" y="-22.2%" width="109.9%" height="162.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.742725317   0 0 0 0 0.742725317   0 0 0 0 0.742725317  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="284" height="45" rx="2"></rect>
+        <filter x="-4.9%" y="-22.2%" width="109.9%" height="162.2%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.742725317   0 0 0 0 0.742725317   0 0 0 0 0.742725317  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="0" y="0" width="284" height="45" rx="2"></rect>
+        <filter x="-4.9%" y="-22.2%" width="109.9%" height="162.2%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.742725317   0 0 0 0 0.742725317   0 0 0 0 0.742725317  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-9" x="0" y="0" width="284" height="45" rx="2"></rect>
+        <filter x="-4.9%" y="-22.2%" width="109.9%" height="162.2%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.742725317   0 0 0 0 0.742725317   0 0 0 0 0.742725317  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-11" x="0" y="0" width="284" height="45" rx="2"></rect>
+        <filter x="-4.9%" y="-22.2%" width="109.9%" height="162.2%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.742725317   0 0 0 0 0.742725317   0 0 0 0 0.742725317  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-13" x="0" y="0" width="284" height="45" rx="2"></rect>
+        <filter x="-4.9%" y="-22.2%" width="109.9%" height="162.2%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.742725317   0 0 0 0 0.742725317   0 0 0 0 0.742725317  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-15" x="0" y="0" width="284" height="45" rx="2"></rect>
+        <filter x="-4.9%" y="-22.2%" width="109.9%" height="162.2%" filterUnits="objectBoundingBox" id="filter-16">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.742725317   0 0 0 0 0.742725317   0 0 0 0 0.742725317  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-17" x="0" y="0" width="284" height="45" rx="2"></rect>
+        <filter x="-4.9%" y="-22.2%" width="109.9%" height="162.2%" filterUnits="objectBoundingBox" id="filter-18">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.742725317   0 0 0 0 0.742725317   0 0 0 0 0.742725317  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-19" x="0" y="0" width="284" height="45" rx="2"></rect>
+        <filter x="-4.9%" y="-22.2%" width="109.9%" height="162.2%" filterUnits="objectBoundingBox" id="filter-20">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.742725317   0 0 0 0 0.742725317   0 0 0 0 0.742725317  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-21" x="0" y="0" width="645" height="45" rx="2"></rect>
+        <filter x="-2.2%" y="-22.2%" width="104.3%" height="162.2%" filterUnits="objectBoundingBox" id="filter-22">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.742725317   0 0 0 0 0.742725317   0 0 0 0 0.742725317  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-23" x="0" y="0" width="289" height="45" rx="2"></rect>
+        <filter x="-4.8%" y="-22.2%" width="109.7%" height="162.2%" filterUnits="objectBoundingBox" id="filter-24">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.742725317   0 0 0 0 0.742725317   0 0 0 0 0.742725317  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-25" x="0" y="0" width="351" height="45" rx="2"></rect>
+        <filter x="-4.0%" y="-22.2%" width="108.0%" height="162.2%" filterUnits="objectBoundingBox" id="filter-26">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.742725317   0 0 0 0 0.742725317   0 0 0 0 0.742725317  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-27" x="0" y="0" width="351" height="45" rx="2"></rect>
+        <filter x="-4.0%" y="-22.2%" width="108.0%" height="162.2%" filterUnits="objectBoundingBox" id="filter-28">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.742725317   0 0 0 0 0.742725317   0 0 0 0 0.742725317  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-29" x="0" y="0" width="349" height="45" rx="2"></rect>
+        <filter x="-4.0%" y="-22.2%" width="108.0%" height="162.2%" filterUnits="objectBoundingBox" id="filter-30">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.742725317   0 0 0 0 0.742725317   0 0 0 0 0.742725317  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-31" x="70" y="415" width="45" height="25" rx="2"></rect>
+        <filter x="-31.1%" y="-40.0%" width="162.2%" height="212.0%" filterUnits="objectBoundingBox" id="filter-32">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.742725317   0 0 0 0 0.742725317   0 0 0 0 0.742725317  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-33" x="70" y="447" width="45" height="25" rx="2"></rect>
+        <filter x="-31.1%" y="-40.0%" width="162.2%" height="212.0%" filterUnits="objectBoundingBox" id="filter-34">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.742725317   0 0 0 0 0.742725317   0 0 0 0 0.742725317  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="V2_Last" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Career_Development_L_v2.0-Copy" transform="translate(-285.000000, -2769.000000)">
+            <g id="Traning-Schema" transform="translate(285.000000, 2769.000000)">
+                <g id="Group-4">
+                    <rect id="Rectangle" stroke="#2B2B2B" fill="#F1F4FB" x="0.5" y="0.5" width="1030" height="77"></rect>
+                    <text id="Group-Leader/PM" font-family="OpenSans-SemiBold, Open Sans" font-size="16" font-weight="600" fill="#000000">
+                        <tspan x="24" y="39">Group </tspan>
+                        <tspan x="24" y="61">Leader/PM</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle-Copy-4" stroke="#2B2B2B" fill="#D2E1FE" x="0.5" y="77.5" width="1030" height="182"></rect>
+                <text id="Senior-Engineer/-Tea" font-family="OpenSans-SemiBold, Open Sans" font-size="16" font-weight="600" fill="#000000">
+                    <tspan x="21" y="145">Senior </tspan>
+                    <tspan x="21" y="167">Engineer/ Team </tspan>
+                    <tspan x="21" y="189">Leader</tspan>
+                </text>
+                <rect id="Rectangle-Copy-5" stroke="#2B2B2B" fill="#F1F4FB" x="0.5" y="259.5" width="1030" height="138"></rect>
+                <text id="Software-Engineer/Ju" font-family="OpenSans-SemiBold, Open Sans" font-size="16" font-weight="600" fill="#000000">
+                    <tspan x="21" y="311">Software Engineer/</tspan>
+                    <tspan x="21" y="333">Junior Software </tspan>
+                    <tspan x="21" y="355">Engineer</tspan>
+                </text>
+                <g id="Group-3" transform="translate(299.000000, 85.000000)">
+                    <g id="Group-Copy-8">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <rect stroke="#0064D2" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="283" height="44" rx="2"></rect>
+                        </g>
+                        <text id="Process-Innovation" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#0064D2">
+                            <tspan x="75" y="29">Process Innovation</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-Copy-9" transform="translate(300.000000, 0.000000)">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <rect stroke="#0064D2" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="283" height="44" rx="2"></rect>
+                        </g>
+                        <text id="Product-Innovation" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#0064D2">
+                            <tspan x="74" y="29">Product Innovation</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-3-Copy-4" transform="translate(299.000000, 24.000000)">
+                    <g id="Group-Copy-8">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            <use fill="#0064D2" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        </g>
+                        <text id="Advanced-Management" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="60" y="29">Advanced Management</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-Copy-9" transform="translate(301.000000, 0.000000)">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                            <use fill="#0064D2" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        </g>
+                        <text id="Innovation-Leader-pr" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="45" y="29">Innovation Leader program</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-3-Copy" transform="translate(299.000000, 146.000000)">
+                    <g id="Group-Copy-8">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                            <use fill="#0064D2" fill-rule="evenodd" xlink:href="#path-9"></use>
+                        </g>
+                        <text id="Advanced-Technical" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="73" y="29">Advanced Technical</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-Copy-9" transform="translate(300.000000, 0.000000)">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                            <use fill="#0064D2" fill-rule="evenodd" xlink:href="#path-11"></use>
+                        </g>
+                        <text id="Advanced-Human-Skill" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="60" y="29">Advanced Human Skills</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-3-Copy-2" transform="translate(299.000000, 207.000000)">
+                    <g id="Group-Copy-8">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                            <rect stroke="#0064D2" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="283" height="44" rx="2"></rect>
+                        </g>
+                        <text id="CMMI-Training" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#0064D2">
+                            <tspan x="91" y="29">CMMI Training</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-Copy-9" transform="translate(300.000000, 0.000000)">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
+                            <rect stroke="#0064D2" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="283" height="44" rx="2"></rect>
+                        </g>
+                        <text id="Basic-Management" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#0064D2">
+                            <tspan x="76" y="29">Basic Management</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-3-Copy-3" transform="translate(299.000000, 268.000000)">
+                    <g id="Group-Copy-8">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
+                            <rect stroke="#0064D2" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="283" height="44" rx="2"></rect>
+                        </g>
+                        <text id="Repeated-Foundation" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#0064D2">
+                            <tspan x="36" y="29">Repeated Foundation Training</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-Copy-9" transform="translate(300.000000, 0.000000)">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-20)" xlink:href="#path-19"></use>
+                            <rect stroke="#0064D2" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="283" height="44" rx="2"></rect>
+                        </g>
+                        <text id="Basic-Human-Skills" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#0064D2">
+                            <tspan x="76" y="29">Basic Human Skills</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-Copy-8" transform="translate(238.000000, 329.000000)">
+                    <g id="Rectangle" transform="translate(322.500000, 22.500000) scale(1, -1) translate(-322.500000, -22.500000) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-21"></use>
+                        <rect stroke="#0064D2" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="644" height="44" rx="2"></rect>
+                    </g>
+                    <text id="Fresh-Member-Trainin" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#0064D2">
+                        <tspan x="241" y="29">Fresh Member Training</tspan>
+                    </text>
+                </g>
+                <g id="Group-Copy-10" transform="translate(261.500000, 168.500000) rotate(-90.000000) translate(-261.500000, -168.500000) translate(117.000000, 146.000000)">
+                    <g id="Rectangle" transform="translate(144.500000, 22.500000) scale(1, -1) translate(-144.500000, -22.500000) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-24)" xlink:href="#path-23"></use>
+                        <use fill="#0064D2" fill-rule="evenodd" xlink:href="#path-23"></use>
+                    </g>
+                    <text id="Domain-Knowledge-(OJ" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="58" y="28">Domain Knowledge (OJT)</tspan>
+                    </text>
+                </g>
+                <g id="Group-Copy-12" transform="translate(922.500000, 199.000000) rotate(-90.000000) translate(-922.500000, -199.000000) translate(747.000000, 176.500000)">
+                    <g id="Rectangle" transform="translate(175.500000, 22.500000) scale(1, -1) translate(-175.500000, -22.500000) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-26)" xlink:href="#path-25"></use>
+                        <rect stroke="#0064D2" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="350" height="44" rx="2"></rect>
+                    </g>
+                    <text id="Role-based-Training" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#0064D2">
+                        <tspan x="107" y="29">Role based Training</tspan>
+                    </text>
+                </g>
+                <g id="Group-Copy-13" transform="translate(984.500000, 199.000000) rotate(-90.000000) translate(-984.500000, -199.000000) translate(809.000000, 176.500000)">
+                    <g id="Rectangle" transform="translate(175.500000, 22.500000) scale(1, -1) translate(-175.500000, -22.500000) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-28)" xlink:href="#path-27"></use>
+                        <rect stroke="#0064D2" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="350" height="44" rx="2"></rect>
+                    </g>
+                    <text id="Process-Improvement" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#0064D2">
+                        <tspan x="68" y="29">Process Improvement Training</tspan>
+                    </text>
+                </g>
+                <g id="Group-Copy-11" transform="translate(199.500000, 198.500000) rotate(-90.000000) translate(-199.500000, -198.500000) translate(25.000000, 176.000000)">
+                    <g id="Rectangle" transform="translate(174.500000, 22.500000) scale(1, -1) translate(-174.500000, -22.500000) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-30)" xlink:href="#path-29"></use>
+                        <rect stroke="#0064D2" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="348" height="44" rx="2"></rect>
+                    </g>
+                    <text id="Job-specific-Certifi" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#0064D2">
+                        <tspan x="90" y="29">Job specific Certification</tspan>
+                    </text>
+                </g>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-32)" xlink:href="#path-31"></use>
+                    <use fill="#0064D2" fill-rule="evenodd" xlink:href="#path-31"></use>
+                </g>
+                <g id="Rectangle-Copy-6">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-34)" xlink:href="#path-33"></use>
+                    <rect stroke="#0064D2" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="70.5" y="447.5" width="44" height="24" rx="2"></rect>
+                </g>
+                <text id="Global-training-by-T" font-family="OpenSans-SemiBold, Open Sans" font-size="16" font-weight="600" line-spacing="26" letter-spacing="-0.4" fill="#363636">
+                    <tspan x="131" y="431">Global training by Toshiba group in Japan or in other countries</tspan>
+                </text>
+                <text id="Internal-training-by" font-family="OpenSans-SemiBold, Open Sans" font-size="16" font-weight="600" line-spacing="26" letter-spacing="-0.4" fill="#363636">
+                    <tspan x="131" y="461">Internal training by TSDV and/or by external training provider in Vietnam</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

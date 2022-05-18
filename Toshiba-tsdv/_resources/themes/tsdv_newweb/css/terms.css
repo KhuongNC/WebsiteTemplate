@@ -1,0 +1,33 @@
+.terms-page{
+    width: 1280px;
+    margin: auto;
+    padding-top: 16px;
+}
+.terms-title{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: black;
+    letter-spacing: -0.52px;
+    line-height: 45px!important;
+    border-bottom: none;
+    font-size: 28px!important;
+}
+.hr-blue {
+    height: 4px;
+    width: 55px;
+    background-color: #0064D2;
+    margin-top: 48px;
+}
+.terms-text{
+    color: #36393F !important;
+    font-family: "Open Sans";
+    font-size: 18px !important;
+    letter-spacing: 0;
+    line-height: 32px !important;
+    text-align: left;
+}
+@media screen and (max-width: 1365px) {
+    .terms-page{
+        width: auto;
+    }
+}

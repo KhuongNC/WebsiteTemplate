@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Services/Advanced_IT</title>
+    <defs>
+        <circle id="path-1" cx="59.1797179" cy="47.0068088" r="33.5"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="67" height="67" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Services/Advanced_IT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M58,24.9841226 L58,10.3092246 C57.9999771,9.79914397 57.6160566,9.37081596 57.1090162,9.31520762 C44.500928,7.93244811 33.8916061,10.665058 25.2810505,17.5130374 C15.5,26.5 14,35.5 13,40 C12,44.5 14,43.8870478 14,47 C14,48.9778482 12.0320429,54.8232152 8.0961287,64.536101 C7.76164039,65.3616029 8.12198799,66.3052597 8.92157581,66.697682 L8.92157581,66.697682 L8.92157581,66.697682 L17.7305237,66.697682 L16.5504774,74.8710966 C16.5019068,75.2075443 16.6275756,75.5456265 16.8841151,75.7686592 C19.4111515,77.9656373 20.9517089,79.7151716 21.5057871,81.0172621 C22.089365,82.3886769 22.089365,84.4639784 21.5057871,87.2431665 C21.2547597,89.4928657 21.8839702,91.5681672 23.3934188,93.4690709 C24.9028674,95.3699746 27.2099729,96.2000952 30.3147351,95.9594326 L49.2452266,87.7644812 C49.9763915,87.4479621 50.4499493,86.7276596 50.4506852,85.9309251 L50.4659091,69.4486042 L50.4659091,69.4486042" id="Path-5" stroke="#0064D2" stroke-width="3"></path>
+        <circle id="Oval" stroke="#0064D2" stroke-width="3" cx="42.5" cy="26.5" r="2"></circle>
+        <circle id="Oval-Copy" stroke="#0064D2" stroke-width="3" cx="36.5" cy="67.5" r="2"></circle>
+        <circle id="Oval-Copy-2" stroke="#0064D2" stroke-width="3" cx="82.5" cy="54.5" r="2"></circle>
+        <polyline id="Path-6" stroke="#0064D2" stroke-width="3" points="41 28 36 33 36 43 41 43"></polyline>
+        <rect id="Rectangle" stroke="#0064D2" stroke-width="3" x="42.5" y="36.5" width="22" height="22"></rect>
+        <path d="M57.2675685,42.5 L59.5,44.7324315 L59.5,53.5 L48.5,53.5 L48.5,42.5 L57.2675685,42.5 Z" id="Rectangle" stroke="#0064D2" stroke-width="3"></path>
+        <polyline id="Path-7" stroke="#0064D2" stroke-width="3" points="61 35.5 61 28 66 28"></polyline>
+        <line x1="52" y1="35" x2="52" y2="30" id="Path-8" stroke="#0064D2" stroke-width="3"></line>
+        <line x1="64" y1="41" x2="74.5" y2="41" id="Path-9" stroke="#0064D2" stroke-width="3"></line>
+        <polyline id="Path-10" stroke="#0064D2" stroke-width="3" points="66 46 75.2857143 46 75.2857143 55 82 55"></polyline>
+        <line x1="66" y1="52" x2="71" y2="52" id="Path-11" stroke="#0064D2" stroke-width="3"></line>
+        <line x1="49.5" y1="59" x2="49.5" y2="62" id="Path-12" stroke="#0064D2" stroke-width="3"></line>
+        <line x1="55" y1="59.5" x2="55" y2="65" id="Path-13" stroke="#0064D2" stroke-width="3"></line>
+        <line x1="41" y1="49.5" x2="36" y2="49.5" id="Path-14" stroke="#0064D2" stroke-width="3"></line>
+        <polyline id="Path-15" stroke="#0064D2" stroke-width="3" points="41 55.5 36 55.5 36 67"></polyline>
+        <line x1="49.5" y1="76.5" x2="54" y2="76.5" id="Path-16" stroke="#0064D2" stroke-width="3"></line>
+        <use id="Oval" stroke="#0064D2" mask="url(#mask-2)" stroke-width="6" stroke-dasharray="70,120" transform="translate(59.179718, 47.006809) rotate(-62.000000) translate(-59.179718, -47.006809) " xlink:href="#path-1"></use>
+        <path d="M69,92.5 L69.084157,86.1863476 C71.694719,83.1686249 73,80.6065091 73,78.5 C73,73.2532949 68.7467051,69 63.5,69 C58.2532949,69 54,73.2532949 54,78.5 C54,80.6814064 55.3907004,83.303564 58.1721011,86.3664728 L58,92.5" id="Oval" stroke="#0064D2" stroke-width="3"></path>
+    </g>
+</svg>

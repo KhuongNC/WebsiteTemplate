@@ -1,0 +1,129 @@
+h1.gallery-title, h2.subgallery-title, div.gallery-overlay > p, label.dropdown-label, option {
+    font-family: "Open Sans", sans-serif;
+}
+
+h1.gallery-title, h2.subgallery-title {
+    font-weight: bold;
+    color: #232323;
+    line-height: 1.5;
+}
+
+h1.gallery-title {
+    font-size: 40px;
+    margin-top: 4.5rem;
+    margin-bottom: 3rem;
+    border: none;
+}
+
+h2.subgallery-title {
+    font-size: 28px;
+    margin-bottom: 1.5rem;
+
+    /* Align with gallery spacing */
+    padding-left: 10px;
+}
+
+@media (min-width: 1367px) {
+    div.gallery-section {
+        max-width: 1350px;
+    }
+}
+
+@media (max-width: 768px) {
+    div.gallery-section {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+/* The second gallery section should have different padding */
+div.typography > div.gallery-section:not(:first-of-type) {
+    padding-top: 4.5rem
+}
+
+div.gallery-masonry > * {
+    /* Gallery animation when resizing window */
+    transition: all .4s ease-in-out;
+}
+
+div.gallery-overlay {
+    display: table;
+    visibility: hidden;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0;
+    transition: opacity .2s linear;
+}
+
+div.gallery-masonry > :hover > div.gallery-overlay {
+    visibility: visible;
+    opacity: .6;
+}
+
+div.gallery-overlay > div {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+div.gallery-overlay p {
+    width: 100%;
+    color: white;
+    font-size: 1rem;
+    opacity: 1;
+}
+
+div.gallery-overlay p.gallery-overlay-title {
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+select {
+    height: 2rem;
+    line-height: 1.5;
+    width: 30vw;
+    max-width: 20rem;
+}
+
+label.dropdown-label {
+    padding-right: 0.5rem;
+}
+
+label.dropdown-label, option, select {
+    font-size: 1rem;
+}
+
+#img-filter-section {
+    display: none;
+    padding-right: 6rem;
+    text-align: right;
+}
+
+@media (max-width: 1366px) {
+    #img-filter-section {
+        padding-right: 0;
+        text-align: center;
+    }
+
+    #img-row > div {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    h2.subgallery-title {
+        padding-left: 0;
+    }
+}
+
+/* Disable transitions on computers with accessibility features */
+@media (prefers-reduced-motion: reduce) {
+    div.gallery-masonry.justified-gallery * {
+        transition: none;
+    }
+}
+
+/* Fix header z-index */
+div.header-all.put-to-back {
+    z-index: 0
+}

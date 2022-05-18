@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1047px" height="703px" viewBox="0 0 1047 703" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <style type="text/css">@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800');</style>
+    </defs>
+    <title>Career_path_chart</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="183" height="45" rx="2"></rect>
+        <filter x="-3.3%" y="-13.3%" width="106.6%" height="126.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.960251524   0 0 0 0 0.960251524  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="183" height="45" rx="2"></rect>
+        <filter x="-3.3%" y="-13.3%" width="106.6%" height="126.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.960251524   0 0 0 0 0.960251524  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="183" height="45" rx="2"></rect>
+        <filter x="-3.3%" y="-13.3%" width="106.6%" height="126.7%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.960251524   0 0 0 0 0.960251524  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="0" y="0" width="183" height="45" rx="2"></rect>
+        <filter x="-3.3%" y="-13.3%" width="106.6%" height="126.7%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.960251524   0 0 0 0 0.960251524  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-9" x="0" y="0" width="183" height="45" rx="2"></rect>
+        <filter x="-3.3%" y="-13.3%" width="106.6%" height="126.7%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.960251524   0 0 0 0 0.960251524  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-11" x="0" y="0" width="183" height="45" rx="2"></rect>
+        <filter x="-3.3%" y="-13.3%" width="106.6%" height="126.7%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.960251524   0 0 0 0 0.960251524  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-13" x="0" y="0" width="183" height="45" rx="2"></rect>
+        <filter x="-3.3%" y="-13.3%" width="106.6%" height="126.7%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.960251524   0 0 0 0 0.960251524  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-15" x="0" y="0" width="183" height="45" rx="2"></rect>
+        <filter x="-3.3%" y="-13.3%" width="106.6%" height="126.7%" filterUnits="objectBoundingBox" id="filter-16">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.960251524   0 0 0 0 0.960251524  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="V2_Last" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Career_Development_L_v2.0-Copy" transform="translate(-277.000000, -981.000000)">
+            <g id="Career_path_chart" transform="translate(278.000000, 982.000000)">
+                <rect id="Rectangle" stroke="#000000" stroke-width="2" x="291" y="171" width="642" height="316"></rect>
+                <rect id="Rectangle-Copy-3" stroke="#000000" stroke-width="2" x="716" y="171" width="217" height="316"></rect>
+                <rect id="Rectangle-Copy-2" stroke="#000000" stroke-width="2" x="291" y="171" width="217" height="316"></rect>
+                <g id="Group-Copy" transform="translate(242.000000, 218.000000)" fill="#FFFFFF" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold">
+                    <text id="General-Director">
+                        <tspan x="0" y="17">General Director</tspan>
+                    </text>
+                </g>
+                <g id="Group-Copy-4" transform="translate(863.000000, 218.000000)" fill="#FFFFFF" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold">
+                    <text id="General-Director">
+                        <tspan x="0" y="17">General Director</tspan>
+                    </text>
+                </g>
+                <g id="Group-2" transform="translate(417.000000, 206.000000)">
+                    <g id="Group-Copy-8">
+                        <rect id="Rectangle" stroke="#B9D0FD" fill="#D2E1FE" transform="translate(91.500000, 22.500000) scale(1, -1) translate(-91.500000, -22.500000) " x="0.5" y="0.5" width="182" height="44" rx="2"></rect>
+                        <text id="General-Manager" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" letter-spacing="0.2" fill="#0061CC" fill-opacity="0.91">
+                            <tspan x="30" y="29">General Manager</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-Copy-8" transform="translate(0.000000, 69.000000)">
+                        <rect id="Rectangle" stroke="#B9D0FD" fill="#D2E1FE" transform="translate(91.500000, 22.500000) scale(1, -1) translate(-91.500000, -22.500000) " x="0.5" y="0.5" width="182" height="44" rx="2"></rect>
+                        <text id="Program-Manager" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" letter-spacing="0.2" fill="#0061CC" fill-opacity="0.91">
+                            <tspan x="27" y="29">Program Manager</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-Copy-8" transform="translate(0.000000, 138.000000)">
+                        <rect id="Rectangle" stroke="#B9D0FD" fill="#D2E1FE" transform="translate(91.500000, 22.500000) scale(1, -1) translate(-91.500000, -22.500000) " x="0.5" y="0.5" width="182" height="44" rx="2"></rect>
+                        <text id="Project-Manager" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" letter-spacing="0.2" fill="#0061CC" fill-opacity="0.91">
+                            <tspan x="32" y="29">Project Manager</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-Copy-8" transform="translate(0.000000, 207.000000)">
+                        <rect id="Rectangle" stroke="#B9D0FD" fill="#D2E1FE" transform="translate(91.500000, 22.500000) scale(1, -1) translate(-91.500000, -22.500000) " x="0.5" y="0.5" width="182" height="44" rx="2"></rect>
+                        <text id="Project-Leader" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" letter-spacing="0.2" fill="#0061CC" fill-opacity="0.91">
+                            <tspan x="39" y="29">Project Leader</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-2-Copy" transform="translate(831.000000, 206.000000)">
+                    <g id="Group-Copy-8">
+                        <rect id="Rectangle" stroke="#B9D0FD" fill="#D2E1FE" transform="translate(91.500000, 22.500000) scale(1, -1) translate(-91.500000, -22.500000) " x="0.5" y="0.5" width="182" height="44" rx="2"></rect>
+                        <text id="General-Manager" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" letter-spacing="0.2" fill="#0064D2">
+                            <tspan x="30" y="29">General Manager</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-Copy-8" transform="translate(0.000000, 69.000000)">
+                        <rect id="Rectangle" stroke="#B9D0FD" fill="#D2E1FE" transform="translate(91.500000, 22.500000) scale(1, -1) translate(-91.500000, -22.500000) " x="0.5" y="0.5" width="182" height="44" rx="2"></rect>
+                        <text id="Program-Manager" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" letter-spacing="0.2" fill="#0064D2">
+                            <tspan x="27" y="29">Program Manager</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-Copy-8" transform="translate(0.000000, 138.000000)">
+                        <rect id="Rectangle" stroke="#B9D0FD" fill="#D2E1FE" transform="translate(91.500000, 22.500000) scale(1, -1) translate(-91.500000, -22.500000) " x="0.5" y="0.5" width="182" height="44" rx="2"></rect>
+                        <text id="Project-Manager" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" letter-spacing="0.2" fill="#0064D2">
+                            <tspan x="32" y="29">Project Manager</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-Copy-8" transform="translate(0.000000, 207.000000)">
+                        <rect id="Rectangle" stroke="#B9D0FD" fill="#D2E1FE" transform="translate(91.500000, 22.500000) scale(1, -1) translate(-91.500000, -22.500000) " x="0.5" y="0.5" width="182" height="44" rx="2"></rect>
+                        <text id="Project-Leader" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" letter-spacing="0.2" fill="#0064D2">
+                            <tspan x="39" y="29">Project Leader</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-2-Copy-2" transform="translate(208.000000, 206.000000)">
+                    <g id="Group-Copy-8">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <rect stroke="#A8BAE6" stroke-width="1" stroke-linejoin="square" fill="#F1F4FB" fill-rule="evenodd" x="0.5" y="0.5" width="182" height="44" rx="2"></rect>
+                        </g>
+                        <text id="General-Manager" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" letter-spacing="0.2" fill="#0064D2">
+                            <tspan x="32" y="29">General Manager</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-Copy-8" transform="translate(0.000000, 69.000000)">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <rect stroke="#A8BAE6" stroke-width="1" stroke-linejoin="square" fill="#F1F4FB" fill-rule="evenodd" x="0.5" y="0.5" width="182" height="44" rx="2"></rect>
+                        </g>
+                        <text id="Program-Manager" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" letter-spacing="0.2" fill="#0064D2">
+                            <tspan x="27" y="29">Program Manager</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-Copy-8" transform="translate(0.000000, 138.000000)">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            <rect stroke="#A8BAE6" stroke-width="1" stroke-linejoin="square" fill="#F1F4FB" fill-rule="evenodd" x="0.5" y="0.5" width="182" height="44" rx="2"></rect>
+                        </g>
+                        <text id="Project-Manager" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" letter-spacing="0.2" fill="#0064D2">
+                            <tspan x="32" y="29">Project Manager</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-Copy-8" transform="translate(0.000000, 207.000000)">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                            <rect stroke="#A8BAE6" stroke-width="1" stroke-linejoin="square" fill="#F1F4FB" fill-rule="evenodd" x="0.5" y="0.5" width="182" height="44" rx="2"></rect>
+                        </g>
+                        <text id="Project-Leader" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" letter-spacing="0.2" fill="#0064D2">
+                            <tspan x="39" y="29">Project Leader</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-2-Copy-3" transform="translate(624.000000, 206.000000)">
+                    <g id="Group-Copy-8">
+                        <g id="Rectangle" transform="translate(91.500000, 22.500000) scale(1, -1) translate(-91.500000, -22.500000) ">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                            <rect stroke="#A8BAE6" stroke-width="1" stroke-linejoin="square" fill="#F1F4FB" fill-rule="evenodd" x="0.5" y="0.5" width="182" height="44" rx="2"></rect>
+                        </g>
+                        <text id="System-expert" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" letter-spacing="0.2" fill="#0064D2">
+                            <tspan x="40.0515625" y="29">System expert</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-Copy-8" transform="translate(0.000000, 69.000000)">
+                        <g id="Rectangle" transform="translate(91.500000, 22.500000) scale(1, -1) translate(-91.500000, -22.500000) ">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                            <rect stroke="#A8BAE6" stroke-width="1" stroke-linejoin="square" fill="#F1F4FB" fill-rule="evenodd" x="0.5" y="0.5" width="182" height="44" rx="2"></rect>
+                        </g>
+                        <text id="Senior-System-Archit" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" line-spacing="20" letter-spacing="0.2" fill="#0064D2">
+                            <tspan x="40.7761719" y="18">Senior System </tspan>
+                            <tspan x="58.44375" y="38">Architect</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-Copy-8" transform="translate(0.000000, 138.000000)">
+                        <g id="Rectangle" transform="translate(91.500000, 22.500000) scale(1, -1) translate(-91.500000, -22.500000) ">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                            <rect stroke="#A8BAE6" stroke-width="1" stroke-linejoin="square" fill="#F1F4FB" fill-rule="evenodd" x="0.5" y="0.5" width="182" height="44" rx="2"></rect>
+                        </g>
+                        <text id="System-Architect" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" letter-spacing="0.2" fill="#0064D2">
+                            <tspan x="31.0606445" y="29">System Architect</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-Copy-8" transform="translate(0.000000, 207.000000)">
+                        <g id="Rectangle" transform="translate(91.500000, 22.500000) scale(1, -1) translate(-91.500000, -22.500000) ">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
+                            <rect stroke="#A8BAE6" stroke-width="1" stroke-linejoin="square" fill="#F1F4FB" fill-rule="evenodd" x="0.5" y="0.5" width="182" height="44" rx="2"></rect>
+                        </g>
+                        <text id="System-Expert" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" letter-spacing="0.2" fill="#0064D2">
+                            <tspan x="40.2668945" y="29">System Expert</tspan>
+                        </text>
+                    </g>
+                </g>
+                <line x1="614.5" y1="623.5" x2="614" y2="488" id="Line-2-Copy" stroke="#000000" stroke-width="2" stroke-linecap="square"></line>
+                <g id="Team-leader" transform="translate(468.000000, 529.000000)">
+                    <rect id="Rectangle-Copy" stroke="#D1D4FF" fill="#D6D9FF" x="0.5" y="0.5" width="273" height="56" rx="2"></rect>
+                    <text id="Team-Leader-Senior-S" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#5C57FF">
+                        <tspan x="98.828125" y="24">Team Leader</tspan>
+                        <tspan x="55.9873047" y="43">Senior Software Engineer</tspan>
+                    </text>
+                </g>
+                <g id="Team-leader-Copy" transform="translate(475.000000, 622.000000)">
+                    <rect id="Rectangle-Copy" fill="#FA9628" x="0" y="0" width="274" height="57" rx="2"></rect>
+                    <text id="Software-Engineer" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="64" y="36">Software Engineer</tspan>
+                    </text>
+                </g>
+                <line x1="1.9724167e-16" y1="262" x2="1045" y2="262" id="Line" stroke="#979797" stroke-linecap="square" stroke-dasharray="4"></line>
+                <line x1="1.9724167e-16" y1="510" x2="1045" y2="510" id="Line-Copy-2" stroke="#979797" stroke-linecap="square" stroke-dasharray="4"></line>
+                <line x1="1.9724167e-16" y1="602" x2="1045" y2="602" id="Line-Copy-3" stroke="#979797" stroke-linecap="square" stroke-dasharray="4"></line>
+                <line x1="1.9724167e-16" y1="696" x2="1045" y2="701" id="Line-Copy-4" stroke="#979797" stroke-linecap="square" stroke-dasharray="4"></line>
+                <line x1="196" y1="0" x2="196" y2="507" id="Line-Copy" stroke="#979797" stroke-linecap="square" stroke-dasharray="4"></line>
+                <line x1="405" y1="0" x2="405" y2="507" id="Line-Copy-5" stroke="#979797" stroke-linecap="square" stroke-dasharray="4"></line>
+                <line x1="614" y1="5" x2="614" y2="512" id="Line-Copy-6" stroke="#979797" stroke-linecap="square" stroke-dasharray="4"></line>
+                <line x1="614.5" y1="267.5" x2="614" y2="512" id="Line-Copy-8" stroke="#2FBE6D" stroke-width="3" stroke-linecap="square" stroke-dasharray="6"></line>
+                <line x1="614.5" y1="262" x2="1028" y2="262" id="Line-Copy-9" stroke="#2FBE6D" stroke-width="3" stroke-linecap="square" stroke-dasharray="6"></line>
+                <line x1="404" y1="602" x2="1028" y2="602" id="Line-Copy-12" stroke="#2FBE6D" stroke-width="3" stroke-linecap="square" stroke-dasharray="6"></line>
+                <line x1="405" y1="510" x2="615" y2="510" id="Line-Copy-14" stroke="#2FBE6D" stroke-width="3" stroke-linecap="square" stroke-dasharray="6"></line>
+                <line x1="404" y1="602" x2="404" y2="512" id="Line-Copy-13" stroke="#2FBE6D" stroke-width="3" stroke-linecap="square" stroke-dasharray="6"></line>
+                <line x1="1028" y1="602" x2="1028" y2="262" id="Line-Copy-11" stroke="#2FBE6D" stroke-width="3" stroke-linecap="square" stroke-dasharray="6"></line>
+                <line x1="819" y1="5" x2="819" y2="512" id="Line-Copy-7" stroke="#979797" stroke-linecap="square" stroke-dasharray="4"></line>
+                <line x1="819" y1="5" x2="819" y2="512" id="Line-Copy-10" stroke="#979797" stroke-linecap="square" stroke-dasharray="4"></line>
+                <text id="Beginer-level" font-family="OpenSans-SemiBold, Open Sans" font-size="16" font-weight="500" fill="#000000">
+                    <tspan x="15" y="659">Beginer level</tspan>
+                </text>
+                <text id="Semi-Middle-to-Middl" font-family="OpenSans-SemiBold, Open Sans" font-size="16" font-weight="500" fill="#000000">
+                    <tspan x="15" y="556">Semi-Middle to </tspan>
+                    <tspan x="15" y="578">Middle Level</tspan>
+                </text>
+                <text id="Bridge-Engineer" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold" fill="#26AB32">
+                    <tspan x="883" y="557">Bridge Engineer</tspan>
+                </text>
+                <text id="Middle-to-Advance-Le" font-family="OpenSans-SemiBold, Open Sans" font-size="16" font-weight="500" fill="#000000">
+                    <tspan x="15" y="349">Middle to Advance </tspan>
+                    <tspan x="15" y="371">Level</tspan>
+                </text>
+                <text id="Quality/-Testing-Spe" font-family="OpenSans-SemiBold, Open Sans" font-size="16" font-weight="500" fill="#000000">
+                    <tspan x="242" y="19">Quality/ Testing </tspan>
+                    <tspan x="242" y="41">Specialist test</tspan>
+                </text>
+                <text id="Software-Process-Spe" font-family="OpenSans-SemiBold, Open Sans" font-size="16" font-weight="500" fill="#000000">
+                    <tspan x="437" y="19">Software Process </tspan>
+                    <tspan x="437" y="41">Specialist Path</tspan>
+                </text>
+                <text id="Specialist-of-Techno" font-family="OpenSans-SemiBold, Open Sans" font-size="16" font-weight="500" fill="#000000">
+                    <tspan x="653" y="19">Specialist of </tspan>
+                    <tspan x="653" y="41">Technology </tspan>
+                    <tspan x="653" y="63">Domain path</tspan>
+                </text>
+                <text id="Project-Management-P" font-family="OpenSans-SemiBold, Open Sans" font-size="16" font-weight="500" fill="#000000">
+                    <tspan x="838.9375" y="19">Project Management </tspan>
+                    <tspan x="901.714844" y="41">Path</tspan>
+                </text>
+                <path id="Line-2" d="M614,134 L621,148 L615,148 L615,171 L613,171 L613,148 L607,148 L614,134 Z" fill="#000000" fill-rule="nonzero"></path>
+                <g id="Group" transform="translate(208.000000, 81.000000)">
+                    <rect id="Rectangle" fill="#0064D2" transform="translate(403.000000, 26.500000) scale(1, -1) translate(-403.000000, -26.500000) " x="0" y="0" width="806" height="53" rx="2"></rect>
+                    <text id="General-Director" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="337" y="33">General Director</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

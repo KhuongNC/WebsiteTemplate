@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="26px" viewBox="0 0 27 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Facebook</title>
+    <defs>
+        <linearGradient x1="14.9825%" y1="14.9825%" x2="91.5375%" y2="91.5375%" id="linearGradient-1">
+            <stop stop-color="#2AA4F4" offset="0%"></stop>
+            <stop stop-color="#007AD9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Contact_S" transform="translate(-17.000000, -811.000000)" fill-rule="nonzero">
+            <g id="Content" transform="translate(16.000000, 503.000000)">
+                <g id="Contact" transform="translate(-0.000000, 308.000000)">
+                    <g id="Social" transform="translate(0.935065, 0.000000)">
+                        <g id="icons8-facebook" transform="translate(0.112887, 0.000000)">
+                            <path d="M13,0 C5.8201,0 0,5.8201 0,13 C0,20.1799 5.8201,26 13,26 C20.1799,26 26,20.1799 26,13 C26,5.8201 20.1799,0 13,0 Z" id="Path" fill="url(#linearGradient-1)"></path>
+                            <path d="M14.75955,16.44565 L18.12395,16.44565 L18.6524,13.02795 L14.75955,13.02795 L14.75955,11.15985 C14.75955,9.74025 15.22365,8.4812 16.5516,8.4812 L18.68555,8.4812 L18.68555,5.499 C18.3105,5.4483 17.5175,5.3378 16.01925,5.3378 C12.89015,5.3378 11.05585,6.9901 11.05585,10.7549 L11.05585,13.0286 L7.839,13.0286 L7.839,16.4463 L11.0552,16.4463 L11.0552,25.8401 C11.6922,25.935 12.33765,26 13,26 C13.59865,26 14.183,25.9454 14.75955,25.8674 L14.75955,16.44565 Z" id="Path" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

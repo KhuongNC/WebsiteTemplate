@@ -1,0 +1,1233 @@
+.introduce {
+    padding: 50px 0px;
+    background-color: #e4f0fe;
+
+}
+
+.leftMainInformation {
+    float: left;
+    width: 50%;
+}
+
+.rightMainInformation {
+    float: right;
+    width: 50%;
+}
+
+.tableFooter {
+    text-align: center;
+    margin-top: 60px;
+    width: 100%;
+    border: none;
+}
+
+.tableFooter th a {
+    color: white;
+    font-size: 22px;
+}
+
+.tableFooter th {
+    text-align: left;
+}
+
+.tableFooter td {
+    text-align: left;
+    font-size: 18px;
+    color: #b7bcc7;
+    padding-top: 20px;
+}
+
+.divFooter {
+    padding: 0 8%;
+}
+
+
+
+.tableFooter br {
+    margin: 15px 0px 0px 0px;
+}
+
+.body {
+    width: 1600px !important;
+    margin: auto;
+}
+
+.footer {
+    margin: auto;
+}
+
+.header {
+    width: 1315px;
+    margin: auto;
+}
+
+.slide-main {
+    height: 587px;
+    margin: auto;
+    background-color: #F0F1F5;
+    position: relative;
+}
+
+.slide-motif {
+    position: absolute;
+    right: 0;
+    top: 520px;
+}
+
+.rectangle-text {
+    height: 54px;
+    width: 214px;
+    color: #292929;
+    font-family: "Open Sans";
+    font-size: 18px !important;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 27px !important;
+    text-align: center;
+    margin: 0 auto 40px auto;
+}
+
+.rectangle.active .rectangle-text {
+    color: #FFFFFF;
+    font-family: "Open Sans";
+    font-size: 18px !important;
+    font-weight: bold;
+    letter-spacing: 0;
+    text-align: center;
+}
+
+.outService-li, .rectangle.active .outService-li {
+    border: none;
+}
+
+.rectangle.active:after {
+    content: " ";
+    position: absolute;
+    right: 114px;
+    bottom: -15px;
+    border-top: 15px solid #0064D2;
+    border-right: 15px solid transparent;
+    border-left: 15px solid transparent;
+    border-bottom: none;
+}
+
+.rectangle:hover:not(.active):after {
+    content: " ";
+    position: absolute;
+    right: 114px;
+    bottom: -15px;
+    border-top: 15px solid #CCD9E6;
+    border-right: 15px solid transparent;
+    border-left: 15px solid transparent;
+    border-bottom: none;
+}
+
+.rectangle {
+    background-color: #f6f7f8;
+    padding: 0 !important;
+    border-top: 1px solid #D9D9D9;
+    border-bottom: 1px solid #D9D9D9;
+}
+
+.rectangle.active {
+    background-color: #0064D2;
+}
+
+.rectangle:hover:not(.active) {
+    background-color: #CCD9E6 !important;
+}
+
+.rectangle:hover:not(.active) .rectangle-images {
+    filter: none !important;
+}
+
+.rectangle:hover:not(.active) .rectangle-text {
+    color: #292929 !important;
+    font-family: "Open Sans";
+    font-size: 18px !important;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 27px !important;
+    text-align: center;
+}
+
+.rectangle.active .rectangle-images {
+    filter: brightness(0) invert(1);
+}
+
+.our-service-body {
+    width: 1292px;
+    height: 249px;
+    border: solid 1px #D9D9D9;
+}
+
+.out-service-title {
+    margin: 0 auto 8px auto;
+}
+
+.out-service {
+    width: 996px;
+    padding-top: 72px;
+}
+
+.technologies {
+    width: 1050px;
+    padding-top: 72px;
+    padding-bottom: 48px;
+}
+
+.hr-outservice {
+    width: 72px;
+    height: 5px;
+    margin: auto;
+    background-color: #3973E6;
+
+}
+
+#carouselExampleIndicators {
+    margin: auto;
+    width: 1292px;
+    height: 369px;
+    padding-top: 104px;
+}
+
+.description p {
+    font-size: 20px !important;
+    line-height: 30px;
+    font-family: Open Sans Regular
+}
+
+.slideText {
+    width: 654px !important;
+}
+
+.slideImage {
+    width: 556px !important;
+    height: 370px !important;
+    border: none;
+    background: none;
+    display: block;
+    margin-left: 71px;
+    border-radius: 6px;
+    box-shadow: 0 9px 35px 0 rgba(57, 70, 88, 0.23);
+}
+
+.slide-inner {
+    height: 450px;
+    width: 1326px;
+}
+
+.slide-img{
+    position: relative;
+}
+
+.oval{
+    position: absolute;
+}
+
+.carousel-indicators {
+    bottom: -230px;
+}
+
+.carousel-indicators li {
+    width: 11px !important;
+    height: 11px !important;
+    margin-right: 6px !important;
+    margin-left: 6px !important;
+    background-color: #CAD6EA;
+}
+
+.carousel-control-prev {
+    width: auto;
+    height: auto;
+    margin-left: -102px;
+    margin-top: 223px;
+    color: #3973E6 !important;
+    transition: transform 0.5s;
+    opacity: 1;
+}
+
+.prev-button:hover {
+    box-sizing: border-box;
+    height: 48px;
+    width: 48px;
+    border: 2px solid #DBDBDC;
+    background-color: #FFFFFF;
+}
+
+.carousel-control-next {
+    width: auto;
+    height: auto;
+    margin-right: -98px;
+    margin-top: 223px;
+    color: #3973E6 !important;
+    opacity: 1;
+}
+
+.slidebutton-icon:hover {
+    box-sizing: border-box;
+    border-radius: 30px;
+    background-color: #FFFFFF;
+    box-shadow: 0 0px 4px 4px rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.01);
+}
+
+.rounded-circle.active {
+    background-color: #1D62D7;
+    filter: drop-shadow(0 0 2px #1D62D7);
+}
+
+.bi-arrow-left-circle {
+    width: 48px;
+}
+
+.open-sans {
+    display: inline-flex !important;
+    align-self: center;
+}
+
+.typography img {
+    border: none !important;
+}
+
+.typography a:hover {
+    border: none !important;
+}
+
+.typography a {
+    color: #0064D2;
+}
+
+.typography p {
+    margin: 16px 0px 0px 0px;
+}
+
+.slide-slogan {
+    width: 591px;
+    color: #232323;
+    font-family: "Open Sans";
+    font-size: 40px !important;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 60px !important;
+}
+
+.description p {
+    width: 654px;
+    color: #434343;
+    font-family: "Open Sans";
+    font-size: 20px !important;
+    letter-spacing: 0;
+    line-height: 32px !important;
+}
+
+.description {
+    margin-top: 24px;
+}
+
+.slide-title {
+    color: #8F9CB7;
+    font-family: 'Open Sans';
+    font-size: 16px !important;
+    font-weight: bold;
+    letter-spacing: 1px;
+    line-height: 26px !important;
+    height: 26px;
+    width: 426px;
+}
+
+.outService-menu {
+    width: 1578px;
+    margin: 36px auto 0px auto !important;
+}
+
+.outServiceIcon {
+    margin: 40px auto 21px auto;
+    display: block;
+    width: 100px;
+}
+
+.outServicePhoto {
+    height: 282px !important;
+    width: 399px !important;
+    border-radius: 6px;
+    box-shadow: 0 2px 22px 0 rgba(158, 158, 158, 0.35);
+}
+
+.ourServiceSlide {
+    box-sizing: border-box;
+    height: 378px;
+    width: 1291px;
+    border: 1px solid #EBEBEB;
+    background-color: #FFFFFF;
+    box-shadow: 0 2px 21px 0 rgba(0, 0, 0, 0.06);
+    margin: 48px auto 0px auto;
+}
+
+.ourServiceImage {
+    margin: 48px 26px 48px 33px;
+}
+
+.ourServiceText {
+    margin: 24px 2px 57px 0px;
+}
+
+.Text-title {
+    width: 632px;
+    color: #0064D2;
+    font-family: "Open Sans";
+    font-size: 24px !important;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 34px !important;
+    margin-top: 16px;
+}
+
+.Text-gioithieu {
+    width: 735px;
+    color: #7D7D82;
+    font-family: "Open Sans";
+    font-size: 16px !important;
+    font-weight: 600;
+    letter-spacing: -0.4px;
+    line-height: 26px !important;
+    margin-top: 16px;
+}
+
+.iconDone {
+    width: 24px;
+    position: relative;
+    top: 5px;
+}
+
+.text-done {
+    height: 21px;
+    color: #7D7D82;
+    font-family: "Open Sans";
+    font-size: 16px !important;
+    font-weight: 600;
+    letter-spacing: -0.4px;
+    line-height: 26px !important;
+}
+
+.ourServiceAndTechlonogies {
+    background-color: #F1F1F4;
+    box-shadow: 0 0 2px 0 rgba(124, 140, 171, 0.43);
+    margin: auto;
+}
+
+.outService-li {
+    border-right: #e6e6e6 1px solid;
+    cursor: pointer;
+    list-style-type: none;
+}
+
+.technology-description {
+    text-align: center;
+}
+
+.title-technology {
+    height: 32px;
+    color: #0064D2;
+    font-family: "Open Sans";
+    font-size: 20px !important;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 32px !important;
+    text-align: center;
+}
+
+.gioithieu-technology {
+    color: #828287;
+    font-family: "Open Sans";
+    font-size: 16px !important;
+    font-weight: 600;
+    letter-spacing: -0.4px;
+    line-height: 26px !important;
+    text-align: center;
+}
+
+.chevron-header {
+
+}
+
+.section-title {
+    height: 38px !important;
+    color: #1F1F1F !important;
+    font-family: "Open Sans" !important;
+    font-size: 28px !important;
+    font-weight: bold !important;
+    letter-spacing: 0;
+    line-height: 38px !important;
+    text-align: center;
+    margin-top: 24px;
+}
+
+.home_content {
+    margin-top: 48px;
+}
+
+.typography img {
+    background: none !important;
+}
+
+.technology-footer {
+    margin: auto;
+    width: 1307px;
+}
+
+.technology-image {
+    text-align: left;
+    padding-top: 72px;
+}
+
+.read-more {
+    width: 30px !important;
+}
+.slideButtonLeft {
+    width: 193px;
+    height: 50px;
+    background-color: #0064D2;
+    color: #FFFFFF;
+    margin-top: 10px;
+    font-size: 16px !important;
+    font-weight: 600;
+    letter-spacing: 1.3px;
+    line-height: 22px !important;
+    text-transform: none !important;
+}
+
+.slideButtonLeft:hover {
+    border-radius: 3px;
+    background-color: #2E82DC;
+    box-shadow: 0 2px 23px 0 rgba(85, 119, 165, 0.42);
+}
+
+.slideButtonRight {
+    box-sizing: border-box;
+    height: 50px;
+    width: 200px;
+    border: 2px solid #C7C7C7;
+    border-radius: 3px;
+    color: #393838;
+    font-family: "Open Sans";
+    font-size: 16px !important;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 22px !important;
+    text-align: center;
+    background-color: #EFEFF0 !important;
+    text-transform: none !important;
+}
+
+.slideButtonRight:hover {
+    box-sizing: border-box;
+    border: 2px solid #C7C7C7;
+    border-radius: 3px;
+    background-color: #EAEAEA !important;
+    box-sizing: border-box;
+}
+
+
+
+.more-about {
+    height: 22px;
+    color: #000000 !important;
+    font-family: "Open Sans";
+    font-size: 16px !important;
+    font-weight: 600;
+    letter-spacing: -0.2px;
+    line-height: 22px !important;
+    text-align: right;
+    margin-bottom: 71px !important;
+    margin-right: 31px;
+    margin-top: 48px;
+}
+
+.more-about-service {
+    color: #000000 !important;
+}
+
+.more-about:hover .read-more {
+    transition: transform 0.25s;
+}
+
+.more-about:hover .read-more {
+    transform: translateX(16px);
+}
+
+.news-read-more:hover .read-more-small {
+    transition: transform 0.25s;
+    transform: translateX(10px);
+}
+
+.outService-footer {
+    width: 1322px;
+}
+
+.news-title {
+    height: 64px;
+    width: 391px;
+    color: #232323 !important;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 32px;
+}
+
+.news-content {
+    width: 396px;
+    color: #7D7D82;
+    font-family: 'Open Sans';
+    font-size: 16px !important;
+    font-weight: 600;
+    letter-spacig: -0.4px;
+    line-height: 26px !important;
+    margin-bottom: 12px;
+}
+
+.news-read-more {
+    height: 22px;
+    width: 85px;
+    color: #0064D2 !important;
+    font-family: 'Open Sans';
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 22px;
+}
+
+.new-read-more {
+    padding-top: 44px;
+    padding-left: 1226px;
+}
+
+.article-date {
+    color: #7D7D82;
+    font-family: "Open Sans";
+    font-size: 16px !important;
+    font-weight: 600;
+    letter-spacing: -0.4px;
+    line-height: 26px !important;
+    padding-left: 7px;
+}
+
+.typography ul {
+    margin: 0 !important;
+}
+
+.new_image {
+    padding: 0 !important;
+}
+
+.typography li {
+    margin-bottom: 0;
+}
+
+.our-service-content {
+    margin-top: 8px;
+}
+
+.technology-logo {
+    margin-left: 110px;
+    width: 75px !important;
+    height: 75px !important;
+}
+
+.technologies-image {
+    width: 75px;
+    height: 75px;
+    text-align: center;
+}
+
+.logo-oralogo-ora {
+    margin-left: 58px;
+}
+
+.logo {
+    margin: 69px -16px;
+    padding-top: 50px;
+    width: 593px;
+    border-right: 5px solid #E7E7E7;
+    height: 167px
+}
+
+.logo-nodejs {
+    margin-left: 78px;
+}
+
+.logo-ora {
+    margin-left: 56px;
+}
+
+.header-home {
+    width: 1315px;
+    margin: auto;
+}
+
+.header-company-name {
+    color: #3B3B3B;
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 27px;
+    padding-top: 22px;
+}
+
+.header a:hover {
+    text-decoration: none;
+}
+
+.menu-text a {
+    color: #3B3B3B;
+    font-family: "Open Sans";
+    font-size: 16px !important;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 24px !important;
+}
+
+.menu-text {
+    padding-left: 621px;
+    margin-top: -20px;
+    padding-bottom: 13px;
+}
+
+.menu-sub {
+    padding-left: 32px;
+}
+
+.active-header-menu {
+    color: #0064D2;
+}
+
+.technologies-description {
+    width: 1600px;
+    margin: auto;
+}
+
+.news-images {
+    border-radius: 6px;
+    height: 255px !important;
+    transition: transform .2s ease-in-out;
+}
+
+.news-images:hover {
+    transform: scale(1.1);
+}
+
+.news-images-bolder {
+    border-radius: 6px;
+    width: 415px;
+    height: 255px;
+    overflow: hidden;
+}
+
+.caption a:hover {
+    text-decoration: underline;
+}
+
+.our-service-all {
+    width: 1514px;
+}
+
+.technology-body {
+    width: 1300px;
+}
+
+.news-all-md{
+    width: 1293px;
+    margin: auto;
+    padding: 0;
+}
+
+.technology-icon {
+    width: 591px;
+}
+
+.news-all {
+    width: 1590px;
+}
+
+.slogan-title-5{
+    font-size: 36px;
+}
+
+.our-service-content p{
+    font-size: 20px !important;
+    line-height: 32px !important;
+    font-family: 'Open Sans';
+    text-align: center;
+}
+
+.technology-footer{
+    padding-bottom: 1px;
+}
+
+.date-time{
+    padding-top: 7px;
+    display: inline-flex;
+    align-self: center;
+}
+
+.more-about:hover{
+    text-decoration: none;
+}
+
+@media screen and (min-width: 1365px) {
+    .asia-toshiba{
+        position: absolute !important;
+        right: 0;
+        top: 30px;
+        text-decoration: underline;
+        font-family: "Open Sans";
+        color: #1D62D7;
+        font-size: 14px;
+        font-weight: bold;
+    }
+}
+
+
+@media screen and (max-width: 1600px) {
+    .header {
+        width: 1150px;
+    }
+    .outService-menu {
+        width: 1346px;
+        overflow: hidden;
+    }
+
+    .our-service-all {
+        width: 1346px;
+    }
+
+    .rectangle.active:after{
+        right: 99px;
+    }
+
+    .our-service-content p{
+        font-size: 18px !important;
+    }
+
+    .rectangle {
+        width: 225px !important;
+        height: 227px;
+    }
+
+    .technologies-description {
+        width: 1300px;
+    }
+
+    .outServiceIcon{
+        margin: 31px auto 6px auto;
+    }
+
+    .ourServiceSlide{
+        width: 1150px;
+    }
+
+    .outServicePhoto{
+        width: 358px;
+        height: 273px;
+    }
+
+    .ourServiceText{
+        margin-left: 32px;
+        width: auto;
+    }
+
+    .Text-gioithieu{
+        width: auto;
+        font-size: 16px !important;
+        line-height: 26px !important;
+    }
+
+    .text-done{
+        width: 311px;
+    }
+
+    .outService-footer{
+        width: 1237px;
+    }
+
+    .technology-body{
+        width: 1150px;
+    }
+
+    .news-all {
+        width: 1150px;
+    }
+
+    .new-read-more {
+        padding-top: 44px;
+        padding-left: 967px;
+        width: 1203px !important;
+    }
+
+    #carouselExampleIndicators {
+        width: 1150px;
+    }
+
+    .rectangle:hover:not(.active):after{
+        right: 100px;
+    }
+
+    .caption{
+        width: 367px;
+    }
+
+    .news-content{
+        width: 367px;
+    }
+
+    .slide-motif{
+        top: 467px;
+    }
+
+    .carousel-control-prev {
+        margin-left: -78px;
+    }
+
+    .carousel-control-next {
+        margin-right: -78px;
+    }
+
+    .slide-title{
+        width: 590px;
+    }
+
+    .ourServiceSlide{
+        height: 400px;
+    }
+
+    .slide-slogan{
+        width: 590px;
+        font-size: 33px !important;
+        line-height: 48px !important;
+    }
+
+    .description p{
+        width: 590px;
+        font-size: 18px !important;
+        line-height: 30px !important;
+    }
+
+    .slideText{
+        width: 590px !important;
+    }
+
+    .slideImage{
+        width: 500px !important;
+        height: 333px !important;
+        margin-left: 49px;
+    }
+
+    .slideText{
+        width: auto !important;
+    }
+
+    .slogan-title-5{
+        font-size: 33px;
+    }
+
+    .slide-main{
+        height: 513px;
+    }
+
+    .carousel-indicators{
+        bottom: -160px;
+    }
+
+    .logo{
+        width: 562px;
+    }
+
+    .technology-footer{
+        width: 1268px;
+    }
+
+    .slide-inner{
+        width: 1200px;
+    }
+
+    .news-all-md{
+        width: 1150px;
+    }
+
+    .news-images-bolder{
+        height: 247px;
+        width: 367px;
+    }
+
+    .news-title{
+        width: 343px;
+    }
+
+    .home_content{
+        width: 1150px;
+    }
+
+}
+
+@media screen and (max-width: 1364px) {.news-content
+    .out-service {
+        width: 100%;
+        padding-top: 48px;
+    }
+
+    ul.slick-dots{
+        margin-top: 10px !important;
+    }
+
+    .news-images-bolder{
+        height: 185px;
+        width: 258px;
+    }
+
+    .caption{
+        width: 258px;
+    }
+
+    .menu-size-s{
+        overflow: hidden !important;
+    }
+
+    .carousel-indicators {
+        top: 250px;
+    }
+
+    .slide-main {
+        height: auto;
+    }
+
+    .our-service-all {
+        width: 300px;
+    }
+
+    .out-service{
+        width: auto;
+    }
+
+    #outService {
+        width: 300px;
+    }
+
+    .ourServiceSlide {
+        display: none;
+    }
+
+    .outService-footer {
+        width: 100%;
+    }
+
+    .more-about {
+        margin-bottom: 43px !important;
+        margin-right: 0;
+        margin-top: 2px;
+    }
+
+    .technologies {
+        width: 100%;
+        padding-top: 72px;
+        padding-bottom: 48px;
+    }
+
+    .view-detail{
+        box-sizing: border-box;
+        height: 45px;
+        width: 200px;
+        border: 2px solid #C7C7C7;
+        border-radius: 3px;
+        margin: auto;
+        text-align: center;
+        padding-bottom: 30px;
+    }
+
+    .rectangle-text{
+        margin-bottom: 24px;
+    }
+
+    .text-view-detail{
+        margin-top: 8px !important;
+        color: #393838;
+        font-family: "Open Sans";
+        font-size: 16px !important;
+        font-weight: 600;
+        letter-spacing: 0;
+        line-height: 22px !important;
+        text-align: center;
+    }
+
+    .slideButtonLeft{
+        width: 46%;
+    }
+
+    .slideButtonRight{
+        width: 46%;
+        margin-right: 1%;
+    }
+
+    #OurServiceSlide{
+        margin-top: 38px;
+    }
+
+    .outService-li{
+        margin-bottom: 32px !important;
+    }
+
+    .technologies-description {
+        width: 100%;
+        margin: auto;
+    }
+
+    .technology-body {
+        width: 100%;
+    }
+    .header{
+        width: 100%;
+    }
+
+    #slideS{
+        width: 100%;
+    }
+
+    .slide-slogan{
+        width: 95%;
+    }
+
+    .description p{
+        width: 100%;
+        color: #2B2B2B;
+        font-family: "Open Sans";
+        font-size: 18px!important;
+        letter-spacing: 0;
+        line-height: 28px!important;
+    }
+
+    .technologies{
+        background-color: #F6F7F8;
+    }
+
+    #technology-body-s{
+        background-color: #f6f7f8;
+    }
+
+    #language-logo{
+        background-color: #f6f7f8;
+    }
+
+    .technology-footer{
+        background-color: #f6f7f8;
+    }
+
+    .slick-dotted.slick-slider{
+        margin-bottom:  0px !important;
+        padding-bottom: 0;
+    }
+
+    .slick-next, .slick-prev{
+        display: none !important;
+    }
+
+    .slick-dots{
+        position: initial !important;
+    }
+
+    .slick-dots li button:before{
+        font-size: 10px !important;
+    }
+
+    .slick-dots li.slick-active button:before{
+        color: #1D62D7 !important;
+        filter: drop-shadow(0 0 2px #1D62D7);
+    }
+
+    .rectangle.active:after{
+        border: none;
+    }
+
+    .rectangle{
+        margin: 16px 8px;
+        box-shadow: 0 2px 27px 0 rgba(162,162,162,0.28);
+        background-color: #FFFFFF;
+        border: none;
+    }
+
+    .outService-li{
+        border: none;
+    }
+
+    .technology-slide{
+        width: 258px;
+        height: 358px;
+    }
+
+    .technologies-slide-icon{
+        margin: auto;
+    }
+
+    .icon-technology{
+        margin: 0 16px;
+    }
+
+    .technology-footer{
+        width: 100%;
+        padding-top: 32px;
+    }
+
+    .slick-slide img {
+        display: initial !important;
+    }
+
+    .rectangle-images{
+        text-align: center;
+    }
+
+    .new-read-more{
+        width: 100% !important;
+        padding: 0 16px;
+        text-align: right;
+    }
+
+    .news-content{
+        height: auto;
+    }
+
+    .slogan-title-5{
+        font-size: 24px;
+    }
+
+    .nav-item.dropdown :link {
+        -webkit-tap-highlight-color: transparent !important;
+    }
+
+    .slide-button-s{
+        width: 100%;
+    }
+
+    .thumbnail-home{
+        width: 100% !important;
+    }
+
+    .asia-toshiba{
+        text-decoration: underline;
+        font-family: "Open Sans";
+        color: #1D62D7 !important;
+        font-size: 14px !important;
+        font-weight: bold;
+        width: 100%;
+        padding: 11px 0;
+    }
+}
+
+body.no-js :not(.noscript-inform) {
+    visibility: hidden;
+}
+
+p.noscript-inform {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bolder;
+    padding: 50px;
+}
