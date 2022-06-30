@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SocialBook</title>
+    <script src="https://kit.fontawesome.com/8f4bcfcb50.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <nav>
+        <div class="nav-left">
+            <img src="https://i.postimg.cc/L8FzGjPt/logo.png" class="logo" alt="">
+            <ul>
+                <li><img src="https://i.postimg.cc/Gtkkp2w8/notification.png" alt=""></li>
+                <li><img src="https://i.postimg.cc/m2vwR0vF/inbox.png" alt=""></li>
+                <li><img src="https://i.postimg.cc/x1GFZfXd/video.png" alt=""></li>
+            </ul>
+        </div>
+
+        <div class="nav-right">
+            <div class="search-box">
+                <img src="https://i.postimg.cc/zX2fgNzV/search.png" alt="">
+                <input type="text" placeholder="Search">
+            </div>
+            <div class="nav-user-icon online" onclick="settingsMenuToggle()">
+                <img src="https://i.postimg.cc/TwjwLW16/profile-pic.png" alt="">
+            </div>
+        </div>
+        <!-- settings menu -->
+        <div class="settings-menu">
+            <div id="dark-btn">
+                <span></span>
+            </div>
+
+            <div class="settings-menu-inner">
+                <div class="user-profile">
+                    <img src="https://i.postimg.cc/TwjwLW16/profile-pic.png">
+                    <div>
+                        <p>Jonh Nichoson</p>
+                        <a href="#">See your profile</a>
+                    </div>
+                </div>
+                <hr>
+                <div class="user-profile">
+                    <img src="https://i.postimg.cc/WzSQxsWr/feedback.png">
+                    <div>
+                        <p>Give feedback</p>
+                        <a href="#">Help us to improve the new design</a>
+                    </div>
+                </div>
+                <hr>
+                <div class="settings-links">
+                    <img src="https://i.postimg.cc/3xPJtZDh/setting.png" class="settings-icon">
+                    <a href="" #>Settings & Privacy <img src="https://i.postimg.cc/W3mR6G05/arrow.png" width="10px"></a>
+                </div>
+                <div class="settings-links">
+                    <img src="https://i.postimg.cc/1zcMvJYV/help.png" class="settings-icon">
+                    <a href="" #>Help & Support <img src="https://i.postimg.cc/W3mR6G05/arrow.png" width="10px"></a>
+                </div>
+                <div class="settings-links">
+                    <img src="https://i.postimg.cc/NG4qKxsM/display.png" class="settings-icon">
+                    <a href="" #>Display & Accessibility <img src="https://i.postimg.cc/W3mR6G05/arrow.png"
+                            width="10px"></a>
+                </div>
+                <div class="settings-links">
+                    <img src="https://i.postimg.cc/CKFbxYmd/logout.png" class="settings-icon">
+                    <a href="" #>Logout<img src="https://i.postimg.cc/W3mR6G05/arrow.png" width="10px"></a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <!-- left-sidebar -->
+        <div class="left-sidebar">
+            <div class="imp-links">
+                <a href="#"><img src="https://i.postimg.cc/JhncQMJv/news.png" alt=""> Latest News</a>
+                <a href="#"><img src="https://i.postimg.cc/GpkgZc92/friends.png" alt=""> Friends</a>
+                <a href="#"><img src="https://i.postimg.cc/8zvZ61RH/group.png" alt=""> Groups</a>
+                <a href="#"><img src="https://i.postimg.cc/bJrb1gXh/marketplace.png" alt=""> Marketplace</a>
+                <a href="#"><img src="https://i.postimg.cc/vT60tbRb/watch.png" alt=""> Watch</a>
+                <a href="#"> See more</a>
+            </div>
+
+            <div class="shortcut-links">
+                <p>Your Shortcuts</p>
+                <a href="#"><img src="https://i.postimg.cc/PqYf98mw/shortcut-1.png" alt="">Web Developers</a>
+                <a href="#"><img src="https://i.postimg.cc/xCQj2TRF/shortcut-2.png" alt="">Web Design Course</a>
+                <a href="#"><img src="https://i.postimg.cc/5yNxX7DB/shortcut-3.png" alt="">Full Stack Development</a>
+                <a href="#"><img src="https://i.postimg.cc/8cKTMdVq/shortcut-4.png" alt="">Website Experts</a>
+            </div>
+        </div>
+
+        <!-- main content -->
+        <div class="main-content">
+            <div class="story-gallery">
+                <div class="story story1">
+                    <img src="https://i.postimg.cc/B6nyDrQn/upload.png">
+                    <p>Post story</p>
+                </div>
+                <div class="story story2">
+                    <img src="https://i.postimg.cc/B6zFpFs1/member-1.png">
+                    <p>Allison</p>
+                </div>
+                <div class="story story3">
+                    <img src="https://i.postimg.cc/8cr60CPX/member-2.png">
+                    <p>Jackson</p>
+                </div>
+                <div class="story story4">
+                    <img src="https://i.postimg.cc/BZ870cjk/member-3.png">
+                    <p>Samona</p>
+                </div>
+                <div class="story story5">
+                    <img src="https://i.postimg.cc/h4HyPzxj/member-4.png">
+                    <p>Jonh Doe</p>
+                </div>
+            </div>
+
+            <div class="write-post-container">
+                <div class="user-profile">
+                    <img src="https://i.postimg.cc/TwjwLW16/profile-pic.png">
+                    <div>
+                        <p>Jonh Nichoson</p>
+                        <small>Public <i class="fa-solid fa-caret-down"></i></small>
+                    </div>
+                </div>
+
+                <div class="post-input-container">
+                    <textarea rows="3" placeholder="What's on your mind, Khuong?"></textarea>
+                    <div class="add-post-links">
+                        <a href="#"><img src="https://i.postimg.cc/ydpmG5hx/live-video.png">Live Video</a>
+                        <a href="#"><img src="https://i.postimg.cc/FFcbpPdr/photo.png">Photo/Video</a>
+                        <a href="#"><img src="https://i.postimg.cc/xdHBnvp9/cf.png">Feeling/Activity</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="post-container">
+                <div class="post-row">
+                    <div class="user-profile">
+                        <img src="https://i.postimg.cc/TwjwLW16/profile-pic.png">
+                        <div>
+                            <p>Jonh Nichoson</p>
+                            <span>June 24 2022, 13:40 pm</span>
+                        </div>
+                    </div>
+                    <a href="#"><i class="fa-solid fa-ellipsis-vertical"></i></a>
+                </div>
+
+                <p class="post-text"> Subcribe <span>@My Channel.</span>
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+                    industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
+                    and
+                    scrambled it to make a type specimen book. It has survived not only five centuries, but also the
+                    leap
+                    into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with
+                    the
+                    release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop
+                    publishing
+                    software like Aldus PageMaker including versions of Lorem Ipsum. <a href="#">#Channel</a> <a
+                        href="#">#YTChannel</a>
+                </p>
+                <img src="https://i.postimg.cc/vB0hsDyQ/feed-image-1.png" class="post-img">
+
+                <div class="post-row">
+                    <div class="activity-icons">
+                        <div><img src="https://i.postimg.cc/tg5t37Yh/like-blue.png"> 120</div>
+                        <div><img src="https://i.postimg.cc/L5mcyJT2/comments.png"> 45</div>
+                        <div><img src="https://i.postimg.cc/sgBgPLxK/share.png"> 20</div>
+                    </div>
+                    <div class="post-profile-icon">
+                        <img src="https://i.postimg.cc/TwjwLW16/profile-pic.png"><i class="fa-solid fa-caret-down"></i>
+                    </div>
+                </div>
+            </div>
+
+            <div class="post-container">
+                <div class="post-row">
+                    <div class="user-profile">
+                        <img src="https://i.postimg.cc/TwjwLW16/profile-pic.png">
+                        <div>
+                            <p>Jonh Nichoson</p>
+                            <span>June 23 2022, 2:40 am</span>
+                        </div>
+                    </div>
+                    <a href="#"><i class="fa-solid fa-ellipsis-vertical"></i></a>
+                </div>
+
+                <p class="post-text"> Subcribe <span>@My Channel.</span>
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+                    industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
+                    and
+                    scrambled it to make a type specimen book. It has survived not only five centuries, but also the
+                    leap
+                    into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with
+                    the
+                    release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop
+                    publishing
+                    software like Aldus PageMaker including versions of Lorem Ipsum. <a href="#">#Channel</a> <a
+                        href="#">#YTChannel</a>
+                </p>
+                <img src="https://i.postimg.cc/J0gQsgtv/feed-image-2.png" class="post-img">
+
+                <div class="post-row">
+                    <div class="activity-icons">
+                        <div><img src="https://i.postimg.cc/tg5t37Yh/like-blue.png"> 123</div>
+                        <div><img src="https://i.postimg.cc/L5mcyJT2/comments.png"> 56</div>
+                        <div><img src="https://i.postimg.cc/sgBgPLxK/share.png"> 8</div>
+                    </div>
+                    <div class="post-profile-icon">
+                        <img src="https://i.postimg.cc/TwjwLW16/profile-pic.png"><i class="fa-solid fa-caret-down"></i>
+                    </div>
+                </div>
+            </div>
+
+            <div class="post-container">
+                <div class="post-row">
+                    <div class="user-profile">
+                        <img src="https://i.postimg.cc/TwjwLW16/profile-pic.png">
+                        <div>
+                            <p>Jonh Nichoson</p>
+                            <span>June 23 2022, 2:40 am</span>
+                        </div>
+                    </div>
+                    <a href="#"><i class="fa-solid fa-ellipsis-vertical"></i></a>
+                </div>
+
+                <p class="post-text"> Subcribe <span>@My Channel.</span>
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+                    industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
+                    and
+                    scrambled it to make a type specimen book. It has survived not only five centuries, but also the
+                    leap
+                    into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with
+                    the
+                    release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop
+                    publishing
+                    software like Aldus PageMaker including versions of Lorem Ipsum. <a href="#">#Channel</a> <a
+                        href="#">#YTChannel</a>
+                </p>
+                <img src="https://i.postimg.cc/RhjcSHDz/feed-image-3.png" class="post-img">
+
+                <div class="post-row">
+                    <div class="activity-icons">
+                        <div><img src="https://i.postimg.cc/tg5t37Yh/like-blue.png"> 123</div>
+                        <div><img src="https://i.postimg.cc/L5mcyJT2/comments.png"> 56</div>
+                        <div><img src="https://i.postimg.cc/sgBgPLxK/share.png"> 8</div>
+                    </div>
+                    <div class="post-profile-icon">
+                        <img src="https://i.postimg.cc/TwjwLW16/profile-pic.png"><i class="fa-solid fa-caret-down"></i>
+                    </div>
+                </div>
+            </div>
+
+            <button type="button" class="load-more-btn">Load More</button>
+        </div>
+
+        <!-- right-sidebar -->
+        <div class="right-sidebar">
+            <div class="sidebar-title">
+                <h4>Events</h4>
+                <a href="#">See All</a>
+            </div>
+
+            <div class="event">
+                <div class="left-event">
+                    <h3>18</h3>
+                    <span>March</span>
+                </div>
+                <div class="right-event">
+                    <h4>Social Media</h4>
+                    <p><i class="fa-solid fa-location-dot"></i> Willson Tech Park</p>
+                    <a href="#">More Info</a>
+                </div>
+            </div>
+
+            <div class="event">
+                <div class="left-event">
+                    <h3>22</h3>
+                    <span>June</span>
+                </div>
+                <div class="right-event">
+                    <h4>Mobile Marketing</h4>
+                    <p><i class="fa-solid fa-location-dot"></i> Willson Tech Park</p>
+                    <a href="#">More Info</a>
+                </div>
+            </div>
+
+            <div class="sidebar-title">
+                <h4>Advertisment</h4>
+                <a href="#">Close</a>
+            </div>
+            <img src="https://i.postimg.cc/q7fZbtJS/advertisement.png" class="sidebar-ads">
+
+            <div class="sidebar-title">
+                <h4>Conversation</h4>
+                <a href="#">Hide Chat</a>
+            </div>
+
+            <div class="online-list">
+                <div class="online">
+                    <img src="https://i.postimg.cc/B6zFpFs1/member-1.png">
+                </div>
+                <p>Allison Mina</p>
+            </div>
+            <div class="online-list">
+                <div class="online">
+                    <img src="https://i.postimg.cc/8cr60CPX/member-2.png">
+                </div>
+                <p>Jackson Aston</p>
+            </div>
+            <div class="online-list">
+                <div class="online">
+                    <img src="https://i.postimg.cc/BZ870cjk/member-3.png">
+                </div>
+                <p>Samona Rose</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>Copyright 2022 - KhuongNC</p>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
