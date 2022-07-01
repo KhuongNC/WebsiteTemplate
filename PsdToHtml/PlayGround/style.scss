@@ -1,0 +1,81 @@
+$primary-color: #ffc87a;
+$text-color: #1a2b5f;
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
+img {
+  display: block;
+  width: 100%;
+}
+body {
+  font-family: "Poppind", sans-serif;
+  color: $text-color;
+}
+@mixin flex($align: flex-start, $justify: flex-start, $wrap: nowrap) {
+  display: flex;
+  align-items: $align;
+  justify-content: $justify;
+  flex-wrap: $wrap;
+}
+// 1440px, 1170px
+.wrapper {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.container {
+  margin: 0 auto;
+  max-width: 1210px;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.header {
+  padding-top: 4rem;
+
+  &__inner {
+    @include flex(center, space-between);
+  }
+
+  &__menu {
+    &-list {
+      @include flex(center);
+    }
+
+    &-item {
+      margin-left: 5rem;
+      &:last-child {
+        margin-left: 7rem;
+      }
+    }
+
+    &-link {
+      font-size: 1.6rem;
+      color: $text-color;
+      transition: color 0.25s linear, border 0.25s linear;
+      &:hover {
+        color: $primary-color;
+      }
+    }
+  }
+
+  &__login {
+    padding: 1.5rem 2.5rem;
+    display: inline-block;
+    border: 1px solid currentColor;
+    border-radius: 2.5rem;
+  }
+}
+.logo {
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: $text-color;
+  &__text {
+    color: $primary-color;
+  }
+}
