@@ -184,4 +184,134 @@ a {
   margin-left: 1.5rem;
 }
 
+.feature {
+  padding-top: 18rem;
+}
+.feature__item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15rem;
+}
+.feature__item:nth-child(odd) .feature__info {
+  padding-left: 10rem;
+}
+.feature__item:nth-child(even) {
+  flex-direction: row-reverse;
+}
+.feature__item:nth-child(even) .feature__info {
+  padding-right: 10rem;
+}
+.feature__image, .feature__info {
+  width: 50%;
+}
+.feature__title {
+  font-size: 4rem;
+  font-weight: 600;
+  margin-bottom: 2.5rem;
+}
+.feature__desc {
+  font-weight: 300;
+  font-size: 1.4rem;
+  margin-bottom: 4rem;
+  line-height: 1.8;
+}
+.feature-intro__item {
+  font-weight: 600;
+  margin-bottom: 2rem;
+  text-decoration: underline;
+  font-size: 1.8rem;
+}
+.feature-intro__item--circle {
+  text-decoration: none;
+  position: relative;
+  padding-left: 3rem;
+}
+.feature-intro__item--circle:before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 4rem;
+  background-color: #ff6adf;
+  transform: translateY(-50%);
+}
+.feature-intro__item--circle:nth-child(2)::before {
+  background-color: #92fa3c;
+}
+.feature-intro__item--circle:nth-child(3)::before {
+  background-color: #1ec0f4;
+}
+.feature-intro__item--circle:nth-child(4)::before {
+  background-color: #ff899c;
+}
+.feature-best__icon {
+  width: 5rem;
+  height: 5rem;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #6cc6d3;
+  position: relative;
+  z-index: 1;
+}
+.feature-best__icon:after {
+  content: "";
+  width: 100%;
+  height: 100%;
+  border-radius: inherit;
+  background-color: currentColor;
+  opacity: 0.25;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+.feature-best__icon--orange {
+  color: #f7ca68;
+}
+.feature-best__icon--green {
+  color: #d1eed6;
+}
+.feature-best__icon--purple {
+  color: #d6b7ef;
+}
+.feature-best__title {
+  font-size: 1.6rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  max-width: 14rem;
+}
+.feature-best__desc {
+  font-weight: 300;
+}
+.feature-best__list {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin-bottom: -5rem;
+}
+.feature-best__item {
+  width: calc(50% - 3rem);
+  margin-bottom: 5rem;
+}
+
+.text-clamp {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.text-clamp--2 {
+  -webkit-line-clamp: 2;
+}
+
 /*# sourceMappingURL=style.css.map */
