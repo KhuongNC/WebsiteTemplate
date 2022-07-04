@@ -1,12 +1,12 @@
+html {
+  font-size: 62.5%;
+}
+
 *,
 *:before,
 *:after {
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
-}
-
-a {
-  text-decoration: none;
 }
 
 img {
@@ -15,11 +15,15 @@ img {
 }
 
 body {
-  font-family: "Poppind", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #1a2b5f;
 }
 
-.wrapper {
+a {
+  text-decoration: none;
+}
+
+.warpper {
   max-width: 1440px;
   margin: 0 auto;
 }
@@ -64,16 +68,16 @@ body {
   padding: 1.5rem 2.5rem;
   display: inline-block;
   border: 1px solid currentColor;
-  border-radius: 2.5rem;
+  border-radius: 3rem;
 }
 
 .logo {
   font-size: 2.5rem;
   font-weight: 600;
-  color: #1a2b5f;
+  color: #ffc87a;
 }
 .logo__text {
-  color: #ffc87a;
+  color: #1a2b5f;
 }
 
 /*# sourceMappingURL=style.css.map */

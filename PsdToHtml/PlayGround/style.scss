@@ -1,22 +1,25 @@
 $primary-color: #ffc87a;
 $text-color: #1a2b5f;
 
+html {
+  font-size: 62.5%; // 1rem = 10px
+}
 *,
 *:before,
 *:after {
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
 }
-a {
-  text-decoration: none;
-}
 img {
   display: block;
   width: 100%;
 }
 body {
-  font-family: "Poppind", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: $text-color;
+}
+a {
+  text-decoration: none;
 }
 @mixin flex($align: flex-start, $justify: flex-start, $wrap: nowrap) {
   display: flex;
@@ -25,7 +28,7 @@ body {
   flex-wrap: $wrap;
 }
 // 1440px, 1170px
-.wrapper {
+.warpper {
   max-width: 1440px;
   margin: 0 auto;
 }
@@ -37,23 +40,19 @@ body {
 }
 .header {
   padding-top: 4rem;
-
   &__inner {
     @include flex(center, space-between);
   }
-
   &__menu {
     &-list {
       @include flex(center);
     }
-
     &-item {
       margin-left: 5rem;
       &:last-child {
         margin-left: 7rem;
       }
     }
-
     &-link {
       font-size: 1.6rem;
       color: $text-color;
@@ -63,19 +62,18 @@ body {
       }
     }
   }
-
   &__login {
     padding: 1.5rem 2.5rem;
     display: inline-block;
     border: 1px solid currentColor;
-    border-radius: 2.5rem;
+    border-radius: 3rem;
   }
 }
 .logo {
   font-size: 2.5rem;
   font-weight: 600;
-  color: $text-color;
+  color: $primary-color;
   &__text {
-    color: $primary-color;
+    color: $text-color;
   }
 }
