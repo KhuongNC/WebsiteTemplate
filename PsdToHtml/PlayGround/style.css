@@ -432,4 +432,127 @@ a {
   width: fit-content;
 }
 
+@media screen and (max-width: 1023px) {
+  .banner {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
+  .banner__heading {
+    font-size: 4rem;
+    margin-bottom: 2rem;
+  }
+  .banner__desc {
+    font-size: 1.6rem;
+  }
+  .banner__buttons > .btn {
+    font-size: 1.4rem;
+  }
+  .category__item {
+    width: calc(50% - 22.5px);
+    margin-bottom: 2.5rem;
+  }
+  .feature {
+    padding-top: 10rem;
+  }
+  .feature__item {
+    flex-direction: column;
+    margin-bottom: 8rem;
+  }
+  .feature__item:nth-child(even) {
+    flex-direction: column;
+  }
+  .feature__item:nth-child(even) .feature__info {
+    padding: 0;
+  }
+  .feature__item:nth-child(odd) .feature__info {
+    padding: 0;
+  }
+  .feature__image, .feature__info {
+    width: 100%;
+  }
+  .feature__image img {
+    margin: 0 auto 5rem;
+  }
+  .partner {
+    margin-bottom: 5rem;
+  }
+  .partner__container {
+    margin-bottom: 5rem;
+  }
+  .partner__item {
+    padding-bottom: 4rem;
+    margin-bottom: 4rem;
+  }
+}
+@media screen and (max-width: 767px) {
+  .header__menu {
+    display: none;
+  }
+  .category__item {
+    width: 100%;
+    margin-bottom: 2.5rem;
+  }
+  .category__image {
+    height: 15rem;
+  }
+  .feature__title {
+    font-size: 3rem;
+  }
+  .partner {
+    margin-bottom: 5rem;
+  }
+  .partner__container {
+    margin-bottom: 5rem;
+  }
+  .partner__list {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .partner__item {
+    width: 50%;
+    margin-bottom: 2rem;
+  }
+  .partner__item img {
+    margin: 0 auto;
+  }
+  .partner__title {
+    margin-bottom: 2rem;
+    padding-bottom: 3rem;
+  }
+  .connect {
+    margin-bottom: 5rem;
+  }
+  .connect__list {
+    flex-wrap: wrap;
+  }
+  .connect__item {
+    width: calc(50% - 1rem);
+    margin-bottom: 2rem;
+  }
+  .subscribe__container {
+    flex-direction: column;
+  }
+  .subscribe__title, .subscribe__info {
+    width: 100%;
+  }
+  .subscribe__title {
+    margin-bottom: 2rem;
+  }
+  .footer__container {
+    flex-wrap: wrap;
+  }
+  .footer__item {
+    width: 100%;
+    margin-bottom: 2rem;
+  }
+}
+@media screen and (max-width: 479px) {
+  .banner__heading {
+    font-size: 3rem;
+  }
+  .banner__buttons > .btn {
+    font-size: 1.2rem;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */

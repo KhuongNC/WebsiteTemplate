@@ -409,3 +409,141 @@ a {
     width: fit-content;
   }
 }
+// mobile first vs desktop first
+// 1440 1366 1280 1024 768 480 320
+@media screen and (max-width: 1023px) {
+  .banner {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    &__heading {
+      font-size: 4rem;
+      margin-bottom: 2rem;
+    }
+    &__desc {
+      font-size: 1.6rem;
+    }
+    &__buttons > .btn {
+      font-size: 1.4rem;
+    }
+  }
+  .category {
+    &__item {
+      width: calc(50% - 22.5px);
+      margin-bottom: 2.5rem;
+    }
+  }
+  .feature {
+    padding-top: 10rem;
+    &__item {
+      flex-direction: column;
+      margin-bottom: 8rem;
+      &:nth-child(even) {
+        flex-direction: column;
+        .feature__info {
+          padding: 0;
+        }
+      }
+      &:nth-child(odd) .feature__info {
+        padding: 0;
+      }
+    }
+    &__image,
+    &__info {
+      width: 100%;
+    }
+    &__image img {
+      margin: 0 auto 5rem;
+    }
+  }
+  .partner {
+    margin-bottom: 5rem;
+    &__container {
+      margin-bottom: 5rem;
+    }
+    &__item {
+      padding-bottom: 4rem;
+      margin-bottom: 4rem;
+    }
+  }
+}
+@media screen and (max-width: 767px) {
+  .header__menu {
+    display: none;
+  }
+  .category {
+    &__item {
+      width: 100%;
+      margin-bottom: 2.5rem;
+    }
+    &__image {
+      height: 15rem;
+    }
+  }
+  .feature {
+    &__title {
+      font-size: 3rem;
+    }
+  }
+  .partner {
+    margin-bottom: 5rem;
+    &__container {
+      margin-bottom: 5rem;
+    }
+    &__list {
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    &__item {
+      width: 50%;
+      margin-bottom: 2rem;
+      img {
+        margin: 0 auto;
+      }
+    }
+    &__title {
+      margin-bottom: 2rem;
+      padding-bottom: 3rem;
+    }
+  }
+  .connect {
+    margin-bottom: 5rem;
+    &__list {
+      flex-wrap: wrap;
+    }
+    &__item {
+      width: calc(50% - 1rem);
+      margin-bottom: 2rem;
+    }
+  }
+  .subscribe {
+    &__container {
+      flex-direction: column;
+    }
+    &__title,
+    &__info {
+      width: 100%;
+    }
+    &__title {
+      margin-bottom: 2rem;
+    }
+  }
+  .footer {
+    &__container {
+      flex-wrap: wrap;
+    }
+    &__item {
+      width: 100%;
+      margin-bottom: 2rem;
+    }
+  }
+}
+@media screen and (max-width: 479px) {
+  .banner {
+    &__heading {
+      font-size: 3rem;
+    }
+    &__buttons > .btn {
+      font-size: 1.2rem;
+    }
+  }
+}
